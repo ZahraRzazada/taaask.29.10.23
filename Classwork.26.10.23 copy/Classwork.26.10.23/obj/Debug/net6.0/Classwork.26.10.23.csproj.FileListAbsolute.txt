@@ -1,0 +1,56 @@
+/Users/zahrarzazada/Projects/Classwork.26.10.23/Classwork.26.10.23/bin/Debug/net6.0/appsettings.Development.json
+/Users/zahrarzazada/Projects/Classwork.26.10.23/Classwork.26.10.23/bin/Debug/net6.0/appsettings.json
+/Users/zahrarzazada/Projects/Classwork.26.10.23/Classwork.26.10.23/bin/Debug/net6.0/Classwork.26.10.23
+/Users/zahrarzazada/Projects/Classwork.26.10.23/Classwork.26.10.23/bin/Debug/net6.0/Classwork.26.10.23.deps.json
+/Users/zahrarzazada/Projects/Classwork.26.10.23/Classwork.26.10.23/bin/Debug/net6.0/Classwork.26.10.23.runtimeconfig.json
+/Users/zahrarzazada/Projects/Classwork.26.10.23/Classwork.26.10.23/bin/Debug/net6.0/Classwork.26.10.23.dll
+/Users/zahrarzazada/Projects/Classwork.26.10.23/Classwork.26.10.23/bin/Debug/net6.0/Classwork.26.10.23.pdb
+/Users/zahrarzazada/Projects/Classwork.26.10.23/Classwork.26.10.23/obj/Debug/net6.0/Classwork.26.10.23.csproj.AssemblyReference.cache
+/Users/zahrarzazada/Projects/Classwork.26.10.23/Classwork.26.10.23/obj/Debug/net6.0/Classwork.26.10.23.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zahrarzazada/Projects/Classwork.26.10.23/Classwork.26.10.23/obj/Debug/net6.0/Classwork.26.10.23.AssemblyInfoInputs.cache
+/Users/zahrarzazada/Projects/Classwork.26.10.23/Classwork.26.10.23/obj/Debug/net6.0/Classwork.26.10.23.AssemblyInfo.cs
+/Users/zahrarzazada/Projects/Classwork.26.10.23/Classwork.26.10.23/obj/Debug/net6.0/Classwork.26.10.23.csproj.CoreCompileInputs.cache
+/Users/zahrarzazada/Projects/Classwork.26.10.23/Classwork.26.10.23/obj/Debug/net6.0/Classwork.26.10.23.MvcApplicationPartsAssemblyInfo.cache
+/Users/zahrarzazada/Projects/Classwork.26.10.23/Classwork.26.10.23/obj/Debug/net6.0/Classwork.26.10.23.RazorAssemblyInfo.cache
+/Users/zahrarzazada/Projects/Classwork.26.10.23/Classwork.26.10.23/obj/Debug/net6.0/Classwork.26.10.23.RazorAssemblyInfo.cs
+/Users/zahrarzazada/Projects/Classwork.26.10.23/Classwork.26.10.23/obj/Debug/net6.0/staticwebassets/msbuild.Classwork.26.10.23.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/zahrarzazada/Projects/Classwork.26.10.23/Classwork.26.10.23/obj/Debug/net6.0/staticwebassets/msbuild.build.Classwork.26.10.23.props
+/Users/zahrarzazada/Projects/Classwork.26.10.23/Classwork.26.10.23/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.Classwork.26.10.23.props
+/Users/zahrarzazada/Projects/Classwork.26.10.23/Classwork.26.10.23/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.Classwork.26.10.23.props
+/Users/zahrarzazada/Projects/Classwork.26.10.23/Classwork.26.10.23/obj/Debug/net6.0/staticwebassets.pack.json
+/Users/zahrarzazada/Projects/Classwork.26.10.23/Classwork.26.10.23/obj/Debug/net6.0/staticwebassets.build.json
+/Users/zahrarzazada/Projects/Classwork.26.10.23/Classwork.26.10.23/obj/Debug/net6.0/staticwebassets.development.json
+/Users/zahrarzazada/Projects/Classwork.26.10.23/Classwork.26.10.23/obj/Debug/net6.0/scopedcss/bundle/Classwork.26.10.23.styles.css
+/Users/zahrarzazada/Projects/Classwork.26.10.23/Classwork.26.10.23/obj/Debug/net6.0/Classwork.26.10.23.dll
+/Users/zahrarzazada/Projects/Classwork.26.10.23/Classwork.26.10.23/obj/Debug/net6.0/refint/Classwork.26.10.23.dll
+/Users/zahrarzazada/Projects/Classwork.26.10.23/Classwork.26.10.23/obj/Debug/net6.0/Classwork.26.10.23.pdb
+/Users/zahrarzazada/Projects/Classwork.26.10.23/Classwork.26.10.23/obj/Debug/net6.0/Classwork.26.10.23.genruntimeconfig.cache
+/Users/zahrarzazada/Projects/Classwork.26.10.23/Classwork.26.10.23/obj/Debug/net6.0/ref/Classwork.26.10.23.dll
+/Users/zahrarzazada/Desktop/Classwork.26.10.23 copy/Classwork.26.10.23/bin/Debug/net6.0/appsettings.Development.json
+/Users/zahrarzazada/Desktop/Classwork.26.10.23 copy/Classwork.26.10.23/bin/Debug/net6.0/appsettings.json
+/Users/zahrarzazada/Desktop/Classwork.26.10.23 copy/Classwork.26.10.23/bin/Debug/net6.0/Classwork.26.10.23
+/Users/zahrarzazada/Desktop/Classwork.26.10.23 copy/Classwork.26.10.23/bin/Debug/net6.0/Classwork.26.10.23.deps.json
+/Users/zahrarzazada/Desktop/Classwork.26.10.23 copy/Classwork.26.10.23/bin/Debug/net6.0/Classwork.26.10.23.runtimeconfig.json
+/Users/zahrarzazada/Desktop/Classwork.26.10.23 copy/Classwork.26.10.23/bin/Debug/net6.0/Classwork.26.10.23.dll
+/Users/zahrarzazada/Desktop/Classwork.26.10.23 copy/Classwork.26.10.23/bin/Debug/net6.0/Classwork.26.10.23.pdb
+/Users/zahrarzazada/Desktop/Classwork.26.10.23 copy/Classwork.26.10.23/obj/Debug/net6.0/Classwork.26.10.23.csproj.AssemblyReference.cache
+/Users/zahrarzazada/Desktop/Classwork.26.10.23 copy/Classwork.26.10.23/obj/Debug/net6.0/Classwork.26.10.23.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zahrarzazada/Desktop/Classwork.26.10.23 copy/Classwork.26.10.23/obj/Debug/net6.0/Classwork.26.10.23.AssemblyInfoInputs.cache
+/Users/zahrarzazada/Desktop/Classwork.26.10.23 copy/Classwork.26.10.23/obj/Debug/net6.0/Classwork.26.10.23.AssemblyInfo.cs
+/Users/zahrarzazada/Desktop/Classwork.26.10.23 copy/Classwork.26.10.23/obj/Debug/net6.0/Classwork.26.10.23.csproj.CoreCompileInputs.cache
+/Users/zahrarzazada/Desktop/Classwork.26.10.23 copy/Classwork.26.10.23/obj/Debug/net6.0/Classwork.26.10.23.MvcApplicationPartsAssemblyInfo.cache
+/Users/zahrarzazada/Desktop/Classwork.26.10.23 copy/Classwork.26.10.23/obj/Debug/net6.0/Classwork.26.10.23.RazorAssemblyInfo.cache
+/Users/zahrarzazada/Desktop/Classwork.26.10.23 copy/Classwork.26.10.23/obj/Debug/net6.0/Classwork.26.10.23.RazorAssemblyInfo.cs
+/Users/zahrarzazada/Desktop/Classwork.26.10.23 copy/Classwork.26.10.23/obj/Debug/net6.0/staticwebassets/msbuild.Classwork.26.10.23.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/zahrarzazada/Desktop/Classwork.26.10.23 copy/Classwork.26.10.23/obj/Debug/net6.0/staticwebassets/msbuild.build.Classwork.26.10.23.props
+/Users/zahrarzazada/Desktop/Classwork.26.10.23 copy/Classwork.26.10.23/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.Classwork.26.10.23.props
+/Users/zahrarzazada/Desktop/Classwork.26.10.23 copy/Classwork.26.10.23/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.Classwork.26.10.23.props
+/Users/zahrarzazada/Desktop/Classwork.26.10.23 copy/Classwork.26.10.23/obj/Debug/net6.0/staticwebassets.pack.json
+/Users/zahrarzazada/Desktop/Classwork.26.10.23 copy/Classwork.26.10.23/obj/Debug/net6.0/staticwebassets.build.json
+/Users/zahrarzazada/Desktop/Classwork.26.10.23 copy/Classwork.26.10.23/obj/Debug/net6.0/staticwebassets.development.json
+/Users/zahrarzazada/Desktop/Classwork.26.10.23 copy/Classwork.26.10.23/obj/Debug/net6.0/scopedcss/bundle/Classwork.26.10.23.styles.css
+/Users/zahrarzazada/Desktop/Classwork.26.10.23 copy/Classwork.26.10.23/obj/Debug/net6.0/Classwork.26.10.23.dll
+/Users/zahrarzazada/Desktop/Classwork.26.10.23 copy/Classwork.26.10.23/obj/Debug/net6.0/refint/Classwork.26.10.23.dll
+/Users/zahrarzazada/Desktop/Classwork.26.10.23 copy/Classwork.26.10.23/obj/Debug/net6.0/Classwork.26.10.23.pdb
+/Users/zahrarzazada/Desktop/Classwork.26.10.23 copy/Classwork.26.10.23/obj/Debug/net6.0/Classwork.26.10.23.genruntimeconfig.cache
+/Users/zahrarzazada/Desktop/Classwork.26.10.23 copy/Classwork.26.10.23/obj/Debug/net6.0/ref/Classwork.26.10.23.dll

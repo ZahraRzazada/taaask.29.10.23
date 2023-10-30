@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../buildMultiTargeting/Classwork.26.10.23.props" />
+</Project>

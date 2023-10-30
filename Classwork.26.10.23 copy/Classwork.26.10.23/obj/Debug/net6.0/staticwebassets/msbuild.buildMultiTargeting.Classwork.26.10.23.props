@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/Classwork.26.10.23.props" />
+</Project>

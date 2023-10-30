@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{C8CB92B1-35A4-4033-B859-48652E2E197D}|Default">
+  <MonoDevelop.Ide.ItemProperties.Classwork.26.10.23 PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Classwork.26.10.23/Views/Home/Index.cshtml">
+    <Files>
+      <File FileName="Classwork.26.10.23/Controllers/HomeController.cs" Line="55" Column="36" IsPinned="True" />
+      <File FileName="Classwork.26.10.23/Views/Home/CarModel.cshtml" />
+      <File FileName="Classwork.26.10.23/Models/Marka.cs" />
+      <File FileName="Classwork.26.10.23/Models/CarModel.cs" />
+      <File FileName="Classwork.26.10.23/Views/Home/Index.cshtml" Line="19" Column="1" />
+      <File FileName="Classwork.26.10.23/Views/Shared/LayoutModel.cshtml" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Classwork.26.10.23" expanded="True">
+            <Node name="Classwork.26.10.23" expanded="True">
+              <Node name="Views" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

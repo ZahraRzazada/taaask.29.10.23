@@ -1,0 +1,22 @@
+﻿@addTagHelper *,Microsoft.AspNetCore.Mvc.TagHelpers
+@{
+    Layout = "LayoutModel";
+}
+@using Classwork._26._10._23.Models;
+@model List<Marka>
+
+<div>
+    <ul>
+        @foreach (var marka in Model)
+        {
+            <li>
+                <a asp-controller="home" asp-action="CarModel" asp-route-id="@marka.Id">
+                    @marka.Name
+                </a>
+            </li>
+
+        }
+
+    </ul>
+</div>
+
